@@ -1,2 +1,2 @@
 # hello-world
-learning how to create a repository
+hi! ryan here. i'm a journalist turned ux designer.
